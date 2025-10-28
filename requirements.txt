@@ -1,9 +1,8 @@
 streamlit
-langchain
-openai
 faiss-cpu
+sentence-transformers==2.5.1
 pandas
+requests
 SpeechRecognition
-sounddevice
 gtts
-pydub
+numpy
