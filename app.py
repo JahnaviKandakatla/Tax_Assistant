@@ -4,7 +4,7 @@ import streamlit as st
 import pandas as pd
 import faiss
 import numpy as np
-from sentence-transformers import SentenceTransformer
+from sentence_transformers import SentenceTransformer
 import requests
 import speech_recognition as sr
 from gtts import gTTS
